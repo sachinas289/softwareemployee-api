@@ -1,0 +1,152 @@
+[
+	{
+		"employeeId": "EMP10001",
+		"name": "Alice Johnson",
+		"position": "Software Engineer",
+		"department": "Engineering",
+		"location": "New York, NY",
+		"salaryDetails": {
+			"baseSalary": 95000,
+			"bonus": 5000,
+			"stockOptions": 10000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T09:00:00Z"
+	},
+	{
+		"employeeId": "EMP10002",
+		"name": "Bob Smith",
+		"position": "Senior Software Engineer",
+		"department": "Engineering",
+		"location": "San Francisco, CA",
+		"salaryDetails": {
+			"baseSalary": 130000,
+			"bonus": 20000,
+			"stockOptions": 25000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T09:30:00Z"
+	},
+	{
+		"employeeId": "EMP10003",
+		"name": "Clara Davis",
+		"position": "QA Engineer",
+		"department": "Quality Assurance",
+		"location": "Austin, TX",
+		"salaryDetails": {
+			"baseSalary": 80000,
+			"bonus": 5000,
+			"stockOptions": 8000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T10:00:00Z"
+	},
+	{
+		"employeeId": "EMP10004",
+		"name": "Daniel Lee",
+		"position": "DevOps Engineer",
+		"department": "Infrastructure",
+		"location": "Seattle, WA",
+		"salaryDetails": {
+			"baseSalary": 105000,
+			"bonus": 10000,
+			"stockOptions": 15000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T10:15:00Z"
+	},
+	{
+		"employeeId": "EMP10005",
+		"name": "Eva Green",
+		"position": "Product Manager",
+		"department": "Product",
+		"location": "Boston, MA",
+		"salaryDetails": {
+			"baseSalary": 115000,
+			"bonus": 15000,
+			"stockOptions": 12000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T10:30:00Z"
+	},
+	{
+		"employeeId": "EMP10006",
+		"name": "Frank White",
+		"position": "Data Scientist",
+		"department": "Data",
+		"location": "Chicago, IL",
+		"salaryDetails": {
+			"baseSalary": 110000,
+			"bonus": 10000,
+			"stockOptions": 14000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T10:45:00Z"
+	},
+	{
+		"employeeId": "EMP10007",
+		"name": "Grace Kim",
+		"position": "UX Designer",
+		"department": "Design",
+		"location": "Los Angeles, CA",
+		"salaryDetails": {
+			"baseSalary": 90000,
+			"bonus": 7000,
+			"stockOptions": 9000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T11:00:00Z"
+	},
+	{
+		"employeeId": "EMP10008",
+		"name": "Henry Torres",
+		"position": "Technical Lead",
+		"department": "Engineering",
+		"location": "Denver, CO",
+		"salaryDetails": {
+			"baseSalary": 125000,
+			"bonus": 18000,
+			"stockOptions": 20000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T11:15:00Z"
+	},
+	{
+		"employeeId": "EMP10009",
+		"name": "Isla Brown",
+		"position": "Business Analyst",
+		"department": "Business Intelligence",
+		"location": "Miami, FL",
+		"salaryDetails": {
+			"baseSalary": 88000,
+			"bonus": 6000,
+			"stockOptions": 7000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T11:30:00Z"
+	},
+	{
+		"employeeId": "EMP10010",
+		"name": "Jack Wilson",
+		"position": "IT Support Engineer",
+		"department": "IT",
+		"location": "Phoenix, AZ",
+		"salaryDetails": {
+			"baseSalary": 75000,
+			"bonus": 4000,
+			"stockOptions": 5000,
+			"currency": "USD",
+			"payFrequency": "Annual"
+		},
+		"lastUpdated": "2025-05-01T11:45:00Z"
+	}
+]
